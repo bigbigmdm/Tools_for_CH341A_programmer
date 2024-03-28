@@ -21,7 +21,7 @@ Two 9 mm long sections of used empty pen rod are used as light conducting elemen
 
 ## Homemade Chip adapters
 
-# The 93Cxx DIP adapter
+# The 93Cxx DIP-8 adapter
 
 This adapter is used for 93C46, 93C56, 93C66, 93C76, 93C86 chips. It must be inserted into slot #25xxx# CH341 programmer device. 
 The schematic of this adapter is:
