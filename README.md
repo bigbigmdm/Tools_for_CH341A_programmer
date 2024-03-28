@@ -26,4 +26,5 @@ Two 9 mm long sections of used empty pen rod are used as light conducting elemen
 This adapter is used for 93C46, 93C56, 93C66, 93C76, 93C86 chips. It must be inserted into slot #25xxx# CH341 programmer device. 
 The schematic of this adapter is:
 ![adapter 93xxx](img/93Cxx_dip8_adapter.svg) 
+The *KiCad* files can be download [here](kicad/93xxx_dip8_adapter.zip)
 
