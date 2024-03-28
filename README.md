@@ -2,9 +2,9 @@
 
 Homemade and factory tools for the CH341A programmer device.
 
-* [3D-Printed housing for the programmer device](# 3D-Printed housing for the programmer device)
-* [Homemade Chip adapters](# Homemade Chip adapters)
-# 3D-Printed housing for the programmer device
+* [3D-Printed housing for the programmer device](#3D-Printed-housing-for-the-programmer-device)
+* [Homemade Chip adapters](#Homemade-Chip-adapters)
+## 3D-Printed housing for the programmer device
 
 ![Fhoto1](img/case_CH341A_black_1.png)
 
@@ -21,9 +21,9 @@ The `STL` files for the slicer can be downloaded [here](3d_printing/CH341_black_
 Two 9 mm long sections of used empty pen rod are used as light conducting elements for the SMD LEDs.
 
 
-# Homemade Chip adapters
+## Homemade Chip adapters
 
-## The 93Cxx DIP-8 adapter
+### The 93Cxx DIP-8 adapter
 
 This adapter is used for 93C46, 93C56, 93C66, 93C76, 93C86 chips. It must be inserted into slot #25xxx# CH341 programmer device. 
 The schematic of this adapter is:
