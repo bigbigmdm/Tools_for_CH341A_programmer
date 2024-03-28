@@ -19,79 +19,25 @@
       <polyline points="0,0, 0,16" stroke="#000" fill="#000" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
     </g>
   </defs>
-  <path d="M10,10h120v180h-120v-180m160 0h120v180h-120v-180" stroke="#999" fill="#bbb" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M20 40v-20h160v20m0 120v20h-140v-100h-20m0 80v40h260v-40m-160 0h30v-40h30m-60 0v-20h60v-20m-60-40v20h160v-20m-50 20v60h50" stroke-width="4" stroke="#000" fill="none"/>
-  <text x="55" y="215" font-size="14px" style="white-space: pre;">25Cxx</text>
-  <text x="210" y="215" font-size="14px" style="white-space: pre;">93Cxx</text>
-  <text x="25" y="35" font-size="14px" style="white-space: pre;">1</text>
-  <text x="25" y="75" font-size="14px" style="white-space: pre;">2</text>
-  <text x="25" y="115" font-size="14px" style="white-space: pre;">3</text>
-  <text x="25" y="155" font-size="14px" style="white-space: pre;">4</text>
-  <text x="105" y="35" font-size="14px" style="white-space: pre;">8</text>
-  <text x="105" y="75" font-size="14px" style="white-space: pre;">7</text>
-  <text x="105" y="115" font-size="14px" style="white-space: pre;">6</text>
-  <text x="105" y="155" font-size="14px" style="white-space: pre;">5</text>
-  <text x="185" y="35" font-size="14px" style="white-space: pre;">1</text>
-  <text x="185" y="75" font-size="14px" style="white-space: pre;">2</text>
-  <text x="185" y="115" font-size="14px" style="white-space: pre;">3</text>
-  <text x="185" y="155" font-size="14px" style="white-space: pre;">4</text>
-  <text x="265" y="35" font-size="14px" style="white-space: pre;">8</text>
-  <text x="265" y="75" font-size="14px" style="white-space: pre;">7</text>
-  <text x="265" y="115" font-size="14px" style="white-space: pre;">6</text>
-  <text x="265" y="155" font-size="14px" style="white-space: pre;">5</text>
-  <text font-size="14px" transform="translate(215, 110) rotate(-90)" style="white-space: pre;">4.7K</text>
-  <g transform="matrix(1, 0, 0, 1, 20, 40)">
-    <circle r="6" style="stroke: none; fill:#000;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 20, 80)">
-    <circle r="6" style="stroke: none; fill:#000;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 20, 120)">
-    <circle r="6" style="stroke: none; fill:#000;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 20, 160)">
-    <circle r="6" style="stroke: none; fill:#000;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 120, 40)">
-    <circle r="6" style="stroke: none; fill:#000;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 120, 80)">
-    <circle r="6" style="stroke: none; fill:#000;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 120, 120)">
-    <circle r="6" style="stroke: none; fill:#000;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 120, 160)">
-    <circle r="6" style="stroke: none; fill:#000;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 180, 40)">
-    <circle r="6" style="stroke: #000; fill:#fff;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 180, 80)">
-    <circle r="6" style="stroke: #000; fill:#fff;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 180, 120)">
-    <circle r="6" style="stroke: #000; fill:#fff;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 180, 160)">
-    <circle r="6" style="stroke: #000; fill:#fff;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 280, 40)">
-    <circle r="6" style="stroke: #000; fill:#fff;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 280, 80)">
-    <circle r="6" style="stroke: #000; fill:#fff;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 280, 120)">
-    <circle r="6" style="stroke: #000; fill:#fff;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 280, 160)">
-    <circle r="6" style="stroke: #000; fill:#fff;" stroke-width="4"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 230, 70)">
-    <path d="M0,0h8v40h-16v-40h8" stroke="#000" fill="#fff" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-  </g>
-  <g transform="matrix(1, 0, 0, 1, 230, 60)">
-    <circle r="6" style="stroke: none; fill:#000;" stroke-width="4"/>
-  </g>
+<path d="M10,10h120v180h-120v-180m160 0h120v180h-120v-180" stroke="#999" fill="#bbb" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M20 40v-20h160v20m0 120v20h-140v-100h-20m0 80v40h260v-40m-160 0h30v-40h30m-60 0v-20h60v-20m-60-40v20h160v-20m-50 20v60h50" stroke-width="4" stroke="#000" fill="none"/>
+<text font-size="14px" transform="translate(215, 110) rotate(-90)">4.7K</text>
+<use href="#po" x="20" y="40"/>
+<use href="#po" x="20" y="80"/>
+<use href="#po" x="20" y="120"/>
+<use href="#po" x="20" y="160"/>
+<use href="#po" x="120" y="40"/>
+<use href="#po" x="120" y="80"/>
+<use href="#po" x="120" y="120"/>
+<use href="#po" x="120" y="160"/>
+<use href="#pa" x="180" y="40"/>
+<use href="#pa" x="180" y="80"/>
+<use href="#pa" x="180" y="120"/>
+<use href="#pa" x="180" y="160"/>
+<use href="#pa" x="280" y="40"/>
+<use href="#pa" x="280" y="80"/>
+<use href="#pa" x="280" y="120"/>
+<use href="#pa" x="280" y="160"/>
+<use href="#ry" x="230" y="70"/>
+<use href="#po" x="230" y="60"/>
 </svg>
