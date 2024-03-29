@@ -31,3 +31,11 @@ The schematic of this adapter is:
 
 The `KiCad` files can be download [here](kicad/93xxx_dip8_adapter.zip)
 
+### The 93Cxx SOT-23-6 adapter
+
+This adapter is used for 93C46, 93C56, 93C66, 93C76, 93C86 chips. It must be inserted into slot #25xxx# CH341 programmer device. 
+The schematic of this adapter is:
+![adapter 93xxx](img/93Cxx_sot-23-6_adapter.svg) 
+
+The `KiCad` files can be download [here](kicad/93xxx_sot-23-6_adapter.zip)
+
