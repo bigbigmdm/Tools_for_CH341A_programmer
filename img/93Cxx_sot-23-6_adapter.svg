@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="150" height="220" viewBox="0 0 150 220" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <style>
+.sall{stroke:#000;fill:#fff;stroke-width:2;stroke-linejoin:round;stroke-linecap:round;}
+.snof{stroke:#000;fill:none;stroke-width:2;stroke-linejoin:round;stroke-linecap:round;}
+.sgnd{stroke:#000;fill:#fff;stroke-width:4;stroke-linejoin:round;stroke-linecap:round;}
+</style>
+  <defs>
+    <g id="ry">
+      <path d="M0,0h8v40h-16v-40h8" stroke="#000" fill="#fff" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <g id="po">
+      <circle r="6" style="stroke: none; fill:#000;" stroke-width="4"/>
+    </g>
+    <g id="pa">
+      <circle r="6" style="stroke: #000; fill:#fff;" stroke-width="4"/>
+    </g>
+    <g id="padv">
+      <polyline points="0,0, 0,16" stroke="#000" fill="#000" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <g id="padh">
+      <polyline points="0,0, 16,0" stroke="#000" fill="#000" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </defs>
+<path d="M10,10h120v180h-120v-180m160" stroke="#999" fill="#bbb" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M20 40h48v60h10m10 -15v-46h30m0 80h-10l-4-4h-10m-46 0v45h70m-95 0l7 -7v-45l7-7m0-16h-5l-5-5h-10" stroke-width="4" stroke="#000" fill="none"/>
+<use href="#po" x="20" y="40"/>
+<use href="#po" x="20" y="80"/>
+<use href="#po" x="20" y="120"/>
+<use href="#po" x="20" y="160"/>
+<use href="#po" x="120" y="40"/>
+<use href="#po" x="120" y="80"/>
+<use href="#po" x="120" y="120"/>
+<use href="#po" x="120" y="160"/>
+<use href="#padh" x="40" y="85"/>
+<use href="#padh" x="40" y="100"/>
+<use href="#padh" x="40" y="115"/>
+<use href="#padh" x="80" y="85"/>
+<use href="#padh" x="80" y="100"/>
+<use href="#padh" x="80" y="115"/>
+</svg>
