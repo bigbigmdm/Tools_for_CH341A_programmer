@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="220" viewBox="0 0 150 220" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <style>
+.sall{stroke:#000;fill:#fff;stroke-width:2;stroke-linejoin:round;stroke-linecap:round;}
+.snof{stroke:#000;fill:none;stroke-width:2;stroke-linejoin:round;stroke-linecap:round;}
+.sgnd{stroke:#000;fill:#fff;stroke-width:4;stroke-linejoin:round;stroke-linecap:round;}
+</style>
+  <defs>
+    <g id="ry">
+      <path d="M0,0h8v40h-16v-40h8" stroke="#000" fill="#fff" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <g id="po">
+      <circle r="6" style="stroke: none; fill:#000;" stroke-width="4"/>
+    </g>
+    <g id="pa">
+      <circle r="6" style="stroke: #000; fill:#fff;" stroke-width="4"/>
+    </g>
+    <g id="padv">
+      <polyline points="0,0, 0,16" stroke="#000" fill="#000" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <g id="padh">
+      <polyline points="0,0, 16,0" stroke="#000" fill="#000" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+  </defs>
+<path d="M10,10h120v180h-120v-180m160" stroke="#999" fill="#bbb" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M20 160h50v-30m-15 0v15m40 0h25v-30m-35 0v45h40m-5-80v-25h-25m-10 15v-30h30m-60 20v10" stroke-width="4" stroke="#000" fill="none"/>
+<path d="M60 145h34m0 -90h-34" stroke-width="4" stroke="#6b6" fill="none"/>
+<use href="#po" x="20" y="40"/>
+<use href="#po" x="20" y="80"/>
+<use href="#po" x="20" y="120"/>
+<use href="#po" x="20" y="160"/>
+<use href="#po" x="120" y="40"/>
+<use href="#po" x="120" y="80"/>
+<use href="#po" x="120" y="120"/>
+<use href="#po" x="120" y="160"/>
+<use href="#padv" x="55" y="72"/>
+<use href="#padv" x="85" y="72"/>
+<use href="#padv" x="55" y="110"/>
+<use href="#padv" x="70" y="110"/>
+<use href="#padv" x="85" y="110"/>
+<use href="#po" x="55" y="55"/>
+<use href="#po" x="100" y="55"/>
+<use href="#po" x="55" y="145"/>
+<use href="#po" x="100" y="145"/>
+</svg>
