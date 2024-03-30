@@ -39,3 +39,10 @@ The schematic of this adapter is:
 
 The `KiCad` files can be download [here](kicad/93xxx_sot-23-6_adapter.zip)
 
+### The 24Cxx SOT-23-5 adapter
+
+This adapter is used for 24C01, 24C02, 24C04, 24C08, 24C16, 24C32, 24C64, 24C128, 24C256 chips. It must be inserted into slot #24xxx# CH341 programmer device. 
+The schematic of this adapter is:
+![adapter 93xxx](img/24xx_sot-23-5_adapter.svg) 
+
+The `KiCad` files can be download [here](kicad/24Cxx_sot-23-5_adapter.zip)
