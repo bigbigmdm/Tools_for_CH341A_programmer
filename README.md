@@ -60,4 +60,3 @@ It must be inserted into slot #25xxx# CH341 programmer device.
 The `KiCad` files can be download [here](kicad/93_and_45_dip8_adapter.zip)
 
 
-The `KiCad` files can be download [here](kicad/93xxx_dip8_adapter.zip)
