@@ -59,7 +59,9 @@ It must be inserted into slot #25xxx# CH341 programmer device.
 
 The `KiCad` files can be download [here](kicad/93_and_45_dip8_adapter.zip)
 
-The `EasyEDA` files can be download [here](EasyEDA/BackupProjects_einkreader_personal_3_20240405.zip)
+The `EasyEDA` files can be download [here](EasyEDA/CH341A_93Cxx_45xxx_adapter_EasyEDA.zip)
+
+The `EasyEDA gerber` files can be download [here](EasyEDA/Gerber_CH341a_93xxx_and_45xxx_adapter.zip)
 
 
 
