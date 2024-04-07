@@ -64,6 +64,8 @@ The `KiCad` files can be download [here](kicad/93_and_45_dip8_adapter.zip)
 
 The `EasyEDA` files can be download [here](EasyEDA/CH341A_93Cxx_45xxx_adapter_EasyEDA.zip)
 
+The link to [OSHW Lab](https://oshwlab.com/einkreader/ch341a_93xxx_and_45xxx_adapter)
+
 The `EasyEDA gerber` files can be download [here](EasyEDA/Gerber_CH341a_93xxx_and_45xxx_adapter.zip)
 
 
