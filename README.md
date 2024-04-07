@@ -51,6 +51,7 @@ The `KiCad` files can be download [here](kicad/24Cxx_sot-23-5_adapter.zip)
 
 This adapter is used for 93C46, 93C56, 93C66, 93C76, 93C86 DIP-8 case chips and AT45DP011, AT45DB021, AT45DB041, AT45DB081, AT45DB161, AT45DB321, AT45DB641 installed on the `SOP-8 - DIP-8 adapter`.
 It must be inserted into slot #25xxx# CH341 programmer device. 
+
 ![adapter 45xxx](img/45_93_adapter_sch.png)
 
 ![adapter 45xxx](img/45_93_adapter_comp.png) 
