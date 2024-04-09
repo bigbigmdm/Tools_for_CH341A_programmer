@@ -77,4 +77,4 @@ The `EasyEDA gerber` files can be download [here](EasyEDA/Gerber_CH341a_93xxx_an
 | Socket DIP-8 - SOP-8 200mil | ![img](img/dip8_sop8_200_adapter.png) | [link1](https://aliexpress.ru/item/32827349954.html) [link2](https://www.ebay.ie/itm/193379529969)|
 | Socket DIP-8 - SOP-16 300mil | ![img](img/dip8_sop16_300_adapter.png) | [link1](https://aliexpress.ru/item/32827349954.html) [link2](https://www.ebay.ie/itm/404297821827)|
 | Socket DIP-8 - MSOP-8 | ![img](img/dip8_msop8_adapter.png) | [link1](https://aliexpress.ru/item/32949689776.html)|
-| Soldering DIP-8 - MSOP-8, SOP-8| ![img](img/sop-dip-sold.png) | [link1](https://aliexpress.ru/item/32855731928.html) [link2]([https://www.ebay.ie/itm/305119267403](https://www.ebay.ie/itm/115891728267)|
+| Soldering DIP-8 - MSOP-8, SOP-8| ![img](img/sop-dip-sold.png) | [link1](https://aliexpress.ru/item/32855731928.html) [link2](https://www.ebay.ie/itm/305119267403](https://www.ebay.ie/itm/115891728267)|
