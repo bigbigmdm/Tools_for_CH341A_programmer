@@ -26,7 +26,7 @@ Two 9 mm long sections of used empty pen rod are used as light conducting elemen
 
 ### The 93Cxx DIP-8 adapter
 
-This adapter is used for 93C46, 93C56, 93C66, 93C76, 93C86 chips. It must be inserted into slot #25xxx# CH341 programmer device. 
+This adapter is used for 93C46, 93C56, 93C66, 93C76, 93C86 chips. It must be inserted into slot `25xxx` CH341 programmer device. 
 The schematic of this adapter is:
 ![adapter 93xxx](img/93Cxx_dip8_adapter.svg) 
 
@@ -51,7 +51,7 @@ The `KiCad` files can be download [here](kicad/24Cxx_sot-23-5_adapter.zip)
 ### The 93Cxx and 45xxx DIP-8 adapter
 
 This adapter is used for 93C46, 93C56, 93C66, 93C76, 93C86 DIP-8 case chips and AT45DP011, AT45DB021, AT45DB041, AT45DB081, AT45DB161, AT45DB321, AT45DB641 installed on the `SOP-8 - DIP-8 adapter`.
-It must be inserted into slot #25xxx# CH341 programmer device. 
+It must be inserted into slot `25xxx` CH341 programmer device. 
 
 ![adapter 45xxx](img/45_93_adapter_sch.png)
 
