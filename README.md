@@ -77,6 +77,7 @@ The `EasyEDA gerber` files can be download [here](EasyEDA/Gerber_CH341a_93xxx_an
 This adapter is used to read and program SFP-module data. It must be inserted into the slot labelled `24xxx` of the CH341a programmer.
 
 The schematic of this adapter is:
+
 ![adapter SFP](img/my_sfp_adapter_sch.png)
 
 ![adapter SFP](img/my_sfp_adapter_pcb.png)
