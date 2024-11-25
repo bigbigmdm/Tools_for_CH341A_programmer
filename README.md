@@ -72,6 +72,19 @@ The link to [OSHW Lab](https://oshwlab.com/einkreader/ch341a_93xxx_and_45xxx_ada
 
 The `EasyEDA gerber` files can be download [here](EasyEDA/Gerber_CH341a_93xxx_and_45xxx_adapter.zip)
 
+### Adapter for SFP-modules
+
+This adapter is used to read and program SFP-module data. It must be inserted into the slot labelled `24xxx` of the CH341a programmer.
+
+The schematic of this adapter is:
+![adapter SFP](img/my_sfp_adapter_sch.png)
+
+![adapter SFP](img/my_sfp_adapter_pcb.png)
+
+![adapter SFP](img/my_sfp_adapter_3d.png)
+
+The `EasyEDA` page is [here]([EasyEDA/CH341A_93Cxx_45xxx_adapter_EasyEDA.zip](https://oshwlab.com/einkreader/ch341a_sfp_adapter)
+
 ## Factory-made adapters
 
 | Type   |       Image          |  Link URL  | 
