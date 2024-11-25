@@ -84,7 +84,7 @@ The schematic of this adapter is:
 
 ![adapter SFP](img/my_sfp_adapter_3d.png)
 
-The `EasyEDA` page is [here](https://oshwlab.com/einkreader/ch341a_sfp_adapter)
+The `EasyEDA` page is [https://oshwlab.com/einkreader/ch341a_sfp_adapter](https://oshwlab.com/einkreader/ch341a_sfp_adapter).
 
 ## Factory-made adapters
 
