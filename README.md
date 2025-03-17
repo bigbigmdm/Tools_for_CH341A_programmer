@@ -86,6 +86,14 @@ The schematic of this adapter is:
 
 The `EasyEDA` page is [https://oshwlab.com/einkreader/ch341a_sfp_adapter](https://oshwlab.com/einkreader/ch341a_sfp_adapter).
 
+### Connecting Arduino RC522 RFID module
+
+The PCB of the Arduino `RC522 RFID module` uses the SPI interface by default. If you connect this module to the CH341A programmer, you can read/write [MIFARE RFID cards](https://en.wikipedia.org/wiki/MIFARE). To use this function, connect the CH341A programmer and the `RC522 RFID module` as follows:
+
+![img](img/ch341a_to_MFRC522_sch.png)
+
+![img](img/rc522_ch341_connect_photo.png)
+
 ## Factory-made adapters
 
 | Type   |       Image          |  Link URL  | 
