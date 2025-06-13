@@ -115,3 +115,7 @@ This adapter used for converting the programmer voltage levels (0 / 3.3V) to 1.8
 
 [link1](https://aliexpress.ru/item/4001360074235.html) [link2](https://www.ebay.ie/itm/253035788247)
 
+<details> 
+  <summary>Other adapters</summary>
+   If you know of other adapters not included in these tables, please post them in [issue](https://github.com/bigbigmdm/Tools_for_CH341A_programmer/issues)
+</details>
